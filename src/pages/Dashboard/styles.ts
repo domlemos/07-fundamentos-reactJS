@@ -71,6 +71,13 @@ export const TableContainer = styled.section`
       font-weight: normal;
       color: #969cb3;
 
+      img.tableIcon {
+        position: relative;
+        margin-right: 5%;
+        margin-bottom: -1.5%;
+        padding: 20px, 32px;
+      }
+
       &.title {
         color: #363f5f;
       }
